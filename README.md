@@ -8,19 +8,13 @@ Whether you are a potential employer, colleague, or simply someone who is intere
 - 🌱 I’m currently learning Next.js and Backend with Java
 - 💞️ I’m looking to collaborate on an ambicious and innovative project
 
-## 📫 How to reach me
-- [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/amauridev)
-- [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/amauridev)
-- Email ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
-- ![World Health Organization](https://img.shields.io/static/v1?style=for-the-badge&message=World+Health+Organization&color=0093D5&logo=World+Health+Organization&logoColor=FFFFFF&label=)
-- ![Apache RocketMQ](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+RocketMQ&color=D77310&logo=Apache+RocketMQ&logoColor=FFFFFF&label=)
-- ![Rocket.Chat](https://img.shields.io/static/v1?style=for-the-badge&message=Rocket.Chat&color=F5455C&logo=Rocket.Chat&logoColor=FFFFFF&label=)
-- ![WP Rocket](https://img.shields.io/static/v1?style=for-the-badge&message=WP+Rocket&color=F56640&logo=WP+Rocket&logoColor=FFFFFF&label=)
+### How to reach me 📢
+- [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=248080&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/amauridev)
+- [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=248080&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/amauridev)
+- [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=248080&logo=Gmail&logoColor=FFFFFF&label=)](mailto:info@amauridev.me?subject=Hola%20Amauri)
+- [![Amauridev](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=248080&logo=Apache+RocketMQ&logoColor=FFFFFF&label=)](https://amauridev.me)
 
-7e7334 yellow
-248080 aqua
-
-## My Skills
+### My Skills
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=7e7334&logo=JavaScript&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=7e7334&logo=React&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=7e7334&logo=HTML5&logoColor=FFFFFF&label=)
